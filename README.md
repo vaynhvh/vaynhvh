@@ -16,7 +16,7 @@
   
 Skills: HTML/CSS/JS/C#/C++
 
-- 🔭 I’m currently working on http://vayn.club
+ 🔭 I’m currently working on http://vayn.club
 </div>
 
 
