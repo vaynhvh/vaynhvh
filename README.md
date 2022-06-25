@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is vayn
-![](https://i.imgur.com/42uWPI3.png)
+![](https://i.imgur.com/nSFnihB.png)
 
 Im vayn im from Germany, and i do on Design an Development.
 
